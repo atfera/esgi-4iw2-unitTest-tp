@@ -1,0 +1,30 @@
+{
+  "name": "esgi-4iw2-unittest-tp",
+  "version": "1.0.0",
+  "description": "Unit testing Exchange with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atfera/esgi-4iw2-unitTest-tp.git"
+  },
+  "author": "Ferhat Attar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atfera/esgi-4iw2-unitTest-tp/issues"
+  },
+  "homepage": "https://github.com/atfera/esgi-4iw2-unitTest-tp#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "eslint": "^5.16.0",
+    "eslint-plugin-jest": "^22.5.1",
+    "jest": "^24.7.1"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4"
+  }
+}
