@@ -1,4 +1,5 @@
-# esgi-4iw2-unitTest-tp
+[![Build Status](https://travis-ci.com/atfera/esgi-4iw2-unitTest-tp.svg?branch=master)](https://travis-ci.com/atfera/esgi-4iw2-unitTest-tp)
+# esgi-4iw2-unitTest-tp 
 Unit testing - TP 1 - Exchange
 
 ## Setup
